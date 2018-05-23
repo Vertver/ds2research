@@ -1,4 +1,4 @@
-#pragma once
+//#pragma once
 
 #include <windows.h>
 
@@ -14,6 +14,6 @@ public:
 class __declspec(dllimport)  IDS2Engine
 {
 public:
-	void GetDS2Engine();
+	void GetDS2Engine(void);
 
 };

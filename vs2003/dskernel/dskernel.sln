@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dskernel", "dskernel.vcproj", "{8961F5A7-38F2-49B8-97C2-E39DB5C97AA0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dsmain", "..\dsmain\dsmain.vcproj", "{BE2AA400-D044-4FCA-B922-7977D2320E23}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dsrender", "..\dsrender\dsrender.vcproj", "{67C7BED8-5F33-4C5E-B813-5F74DED983B8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8961F5A7-38F2-49B8-97C2-E39DB5C97AA0}.Debug.ActiveCfg = Debug|Win32
+		{8961F5A7-38F2-49B8-97C2-E39DB5C97AA0}.Debug.Build.0 = Debug|Win32
+		{8961F5A7-38F2-49B8-97C2-E39DB5C97AA0}.Release.ActiveCfg = Release|Win32
+		{8961F5A7-38F2-49B8-97C2-E39DB5C97AA0}.Release.Build.0 = Release|Win32
+		{BE2AA400-D044-4FCA-B922-7977D2320E23}.Debug.ActiveCfg = Debug|Win32
+		{BE2AA400-D044-4FCA-B922-7977D2320E23}.Debug.Build.0 = Debug|Win32
+		{BE2AA400-D044-4FCA-B922-7977D2320E23}.Release.ActiveCfg = Release|Win32
+		{BE2AA400-D044-4FCA-B922-7977D2320E23}.Release.Build.0 = Release|Win32
+		{67C7BED8-5F33-4C5E-B813-5F74DED983B8}.Debug.ActiveCfg = Debug|Win32
+		{67C7BED8-5F33-4C5E-B813-5F74DED983B8}.Debug.Build.0 = Debug|Win32
+		{67C7BED8-5F33-4C5E-B813-5F74DED983B8}.Release.ActiveCfg = Release|Win32
+		{67C7BED8-5F33-4C5E-B813-5F74DED983B8}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

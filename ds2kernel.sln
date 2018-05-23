@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ds2kernel", "ds2kernel\ds2kernel.vcxproj", "{ED3AE455-1987-4A41-915E-632DF96B47F5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ds2entry", "..\ds2entry\ds2entry.vcxproj", "{BCBAFD36-D698-46D5-9C6B-D63F0B722A17}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ds2entry", "ds2entry\ds2entry.vcxproj", "{BCBAFD36-D698-46D5-9C6B-D63F0B722A17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include <Windows.h>
 #include "classes.h"
 #pragma comment(lib, "ds2kernel.lib")
 
