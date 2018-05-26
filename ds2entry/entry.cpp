@@ -24,8 +24,10 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	}
 
 	MessageBoxA(NULL, "", "", MB_OK | MB_ICONINFORMATION);
-	IDS2Engine ids;
-	ids.GetDS2Engine();
+	/*IDS2Engine ids;
+	ids.GetDS2Engine();*/
+
+	GetDS2Engine();
 
 	return 0;
 }

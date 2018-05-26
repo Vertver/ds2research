@@ -5,7 +5,7 @@
 /*
 void __cdecl IDS2Engine::GetDS2Engine(void)
 {
-		printf("hyi\n");
+		printf("test\n");
 }*/
 
 /*
@@ -16,8 +16,9 @@ class IDS2Engine* __cdecl GetDS2Engine(void)
 */
 
 //IDS2Engine* __cdecl GetDS2Engine(void)
-IDS2Engine* __cdecl GetDS2Engine(void)
+IDS2Engine * GetDS2Engine()
 {
-	printf("SAS\n");
+	printf("Test!\n");
 	return NULL;
 }
+

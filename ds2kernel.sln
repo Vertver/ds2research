@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ds2kernel", "ds2kernel\ds2k
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ds2entry", "ds2entry\ds2entry.vcxproj", "{BCBAFD36-D698-46D5-9C6B-D63F0B722A17}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ds2MemoryManager", "ds2MemoryManager\ds2MemoryManager.vcxproj", "{3C818581-DAE3-437B-80CC-5B40AE2D60C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BCBAFD36-D698-46D5-9C6B-D63F0B722A17}.Release|x64.Build.0 = Release|x64
 		{BCBAFD36-D698-46D5-9C6B-D63F0B722A17}.Release|x86.ActiveCfg = Release|Win32
 		{BCBAFD36-D698-46D5-9C6B-D63F0B722A17}.Release|x86.Build.0 = Release|Win32
+		{3C818581-DAE3-437B-80CC-5B40AE2D60C6}.Debug|x64.ActiveCfg = Debug|x64
+		{3C818581-DAE3-437B-80CC-5B40AE2D60C6}.Debug|x64.Build.0 = Debug|x64
+		{3C818581-DAE3-437B-80CC-5B40AE2D60C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C818581-DAE3-437B-80CC-5B40AE2D60C6}.Debug|x86.Build.0 = Debug|Win32
+		{3C818581-DAE3-437B-80CC-5B40AE2D60C6}.Release|x64.ActiveCfg = Release|x64
+		{3C818581-DAE3-437B-80CC-5B40AE2D60C6}.Release|x64.Build.0 = Release|x64
+		{3C818581-DAE3-437B-80CC-5B40AE2D60C6}.Release|x86.ActiveCfg = Release|Win32
+		{3C818581-DAE3-437B-80CC-5B40AE2D60C6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
