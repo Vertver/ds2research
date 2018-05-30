@@ -21,6 +21,9 @@
     <ClInclude Include="targetver.h">
       <Filter>Headers</Filter>
     </ClInclude>
+    <ClInclude Include="entry.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
